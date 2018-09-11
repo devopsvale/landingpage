@@ -441,8 +441,7 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
     justify-content: center
   }
   footer a {
-    width: 35%;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
   }
   }
  
