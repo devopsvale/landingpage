@@ -9,11 +9,11 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
   article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block
   }
-  a {
+  ol>li>a {
     border-bottom: 3px solid #e6e6e6;
     padding-bottom: 1px;
   }
-  a:hover{
+  ol>li>a:hover{
     border-bottom: 3px solid #444;
   }
   body {
